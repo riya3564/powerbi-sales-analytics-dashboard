@@ -1,3 +1,4 @@
+<img width="893" height="492" alt="Sales-dashboard" src="https://github.com/user-attachments/assets/d88fbc3b-fcf1-4103-8df0-f53314fa6d68" />
 📊 End-to-End Sales Analytics Dashboard (Power BI)
 
 🚀 Project Summary
